@@ -138,7 +138,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Redes Sociais e Plataformas de Relacionamento
 
 ```
-"target.com.br" AND (site:facebook.com | site:instagram.com | site:badoo.com | site:tinder.com | site:okcupid.com)
+"target.com.br" AND (site:facebook.com | site:instagram.com | site:badoo.com | site:tinder.com | site:okcupid.com | site:parperfeito.com.br | site:grindr.com | site:happn.com | site:pof.com)
 ```
 
 #### Plataformas de Provedores de Nuvem
