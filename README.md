@@ -108,7 +108,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Envio de E-mails
 
 ```
-"target.com.br" AND (site:mailchimp.com | site:sendgrid.com | site:convertkit.com | site:locaweb.com.br/email)
+"target.com.br" AND (site:mailchimp.com | site:sendgrid.com | site:convertkit.com | site:locaweb.com.br/email | site:rdstation.com.br | site:leadlovers.com.br | site:sendpulse.com | site:benchmarkemail.com)
 ```
 
 #### Plataformas de Recrutamento e Emprego
