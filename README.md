@@ -78,7 +78,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Geolocalização e Mapas
 
 ```
-"target.com.br" AND (site:arcgis.com | site:google.com/maps | site:bing.com/maps)
+"target.com.br" AND (site:arcgis.com | site:google.com/maps | site:bing.com/maps | site:openstreetmap.org | site:geofusion.com.br | site:ibge.gov.br | site:maplink.global)
 ```
 
 #### Redes de Comunicação e Plataformas de Mensagens
