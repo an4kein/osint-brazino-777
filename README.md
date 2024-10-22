@@ -3,6 +3,10 @@ Dorks por Categoria: Explorando o Cenário Brasileiro
 
 Author: @_an4kein
 
+Este repositório foi criado com o objetivo de reunir Dorks específicas para o contexto brasileiro, cobrindo várias categorias, desde redes sociais até serviços em nuvem e plataformas de compartilhamento de arquivos. O foco é facilitar a pesquisa OSINT (Open Source Intelligence) dentro do cenário nacional, mas muitas das dorks aqui podem ser adaptadas para uso em outros contextos.
+
+Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou melhorias, sinta-se à vontade para enviar um pull request ou abrir uma issue. Juntos, podemos expandir e aprimorar esta lista, tornando-a uma referência valiosa para a comunidade OSINT.
+
 ### Dorks Utilizadas por Categoria no Contexto Brasileiro
 
 #### Compartilhamento de Arquivos e Documentos
