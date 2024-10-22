@@ -24,7 +24,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Serviços em Nuvem e APIs
 
 ```
-"target.com.br" AND (site:amazonaws.com | site:azurewebsites.net | site:cloud.google.com | site:appspot.com | site:firebaseapp.com | site:oraclecloud.com | site:ibmcloud.com | site:uolhost.com.br)
+"target.com.br" AND (site:amazonaws.com | site:azurewebsites.net | site:cloud.google.com | site:appspot.com | site:firebaseapp.com | site:oraclecloud.com | site:ibmcloud.com | site:uolhost.com.br | site:locaweb.com.br | site:kinghost.com.br | site:tivit.com.br)
 ```
 
 #### Plataformas de Desenvolvimento e Repositórios de Código
