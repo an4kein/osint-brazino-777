@@ -150,7 +150,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Compartilhamento de Documentos
 
 ```
-"target.com.br" AND (site:docdroid.net | site:scribd.com | site:dropbox.com | site:slideshare.net)
+"target.com.br" AND (site:docdroid.net | site:scribd.com | site:dropbox.com | site:slideshare.net | site:box.com | site:onedrive.live.com | site:clickup.com | site:zoho.com/workdrive)
 ```
 
 #### Plataformas de Mídia Digital e Animações
