@@ -60,7 +60,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Serviços de Hospedagem e Infraestrutura
 
 ```
-"target.com.br" AND (site:azurewebsites.net | site:aws.com | site:oraclecloud.com | site:ibmcloud.com | site:kinghost.com.br | site:locaweb.com.br)
+"target.com.br" AND (site:azurewebsites.net | site:aws.com | site:oraclecloud.com | site:ibmcloud.com | site:kinghost.com.br | site:locaweb.com.br | site:hostgator.com.br | site:uolhost.com.br | site:tivit.com.br)
 ```
 
 #### Plataformas de Certificações e Credenciais
