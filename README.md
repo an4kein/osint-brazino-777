@@ -90,7 +90,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Educação e Certificação
 
 ```
-"target.com.br" AND (site:coursera.org | site:edx.org | site:udemy.com | site:linkedin.com/learning | site:alura.com.br)
+"target.com.br" AND (site:coursera.org | site:edx.org | site:udemy.com | site:linkedin.com/learning | site:alura.com.br | site:veduca.org | site:hotmart.com | site:eadbox.com)
 ```
 
 #### Plataformas de Documentação e Hospedagem de Arquivos
