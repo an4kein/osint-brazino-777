@@ -66,7 +66,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Certificações e Credenciais
 
 ```
-"target.com.br" AND (site:credly.com | site:credential.net | site:badgr.com | site:linkedin.com)
+"target.com.br" AND (site:credly.com | site:credential.net | site:badgr.com | site:linkedin.com | site:acreditta.com | site:brasilmais.gov.br | site:eduqc.com.br)
 ```
 
 #### Ferramentas de Pesquisa e Repositórios Acadêmicos
