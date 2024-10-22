@@ -144,7 +144,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Provedores de Nuvem
 
 ```
-"target.com.br" AND (site:aws.com | site:azure.com | site:oracle.com/cloud | site:google.com/cloud)
+"target.com.br" AND (site:aws.com | site:azure.com | site:oracle.com/cloud | site:google.com/cloud | site:binario.cloud | site:uolhost.com.br | site:locaweb.com.br)
 ```
 
 #### Plataformas de Compartilhamento de Documentos
