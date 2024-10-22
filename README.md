@@ -156,7 +156,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Mídia Digital e Animações
 
 ```
-"target.com.br" AND (site:powtoon.com | site:prezi.com | site:canva.com)
+"target.com.br" AND (site:powtoon.com | site:prezi.com | site:canva.com | site:renderforest.com | site:animaker.com | site:gummy.digital | site:chdigital.com.br)
 ```
 
 #### Ferramentas de Programação e Repositórios de Códigos
