@@ -72,7 +72,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Ferramentas de Pesquisa e Repositórios Acadêmicos
 
 ```
-"target.com.br" AND (site:academia.edu | site:core.ac.uk | site:ieeexplore.ieee.org | site:scielo.org)
+"target.com.br" AND (site:academia.edu | site:core.ac.uk | site:ieeexplore.ieee.org | site:scielo.org | site:pergamum.ufrj.br | site:teses.usp.br | site:bdtd.ibict.br)
 ```
 
 #### Plataformas de Geolocalização e Mapas
