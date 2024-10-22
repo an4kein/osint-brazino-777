@@ -126,7 +126,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Crowdfunding
 
 ```
-"target.com.br" AND (site:gofundme.com | site:kickstarter.com | site:patreon.com | site:vakinha.com.br)
+"target.com.br" AND (site:gofundme.com | site:kickstarter.com | site:patreon.com | site:vakinha.com.br | site:catarse.me | site:kickante.com.br | site:benfeitoria.com | site:abacashi.com)
 ```
 
 #### Plataformas de Desenvolvimento e API
