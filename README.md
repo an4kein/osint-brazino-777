@@ -114,7 +114,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Recrutamento e Emprego
 
 ```
-"target.com.br" AND (site:linkedin.com/jobs | site:indeed.com | site:glassdoor.com | site:catho.com.br | site:infojobs.com.br)
+"target.com.br" AND (site:linkedin.com/jobs | site:indeed.com | site:glassdoor.com | site:catho.com.br | site:infojobs.com.br | site:trampos.co | site:gupy.io | site:vagas.com.br | site:empregos.com.br)
 ```
 
 #### Plataformas de Streaming e Compartilhamento de Vídeos
