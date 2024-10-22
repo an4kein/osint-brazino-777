@@ -54,7 +54,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Ferramentas de Integração e Colaboração
 
 ```
-"target.com.br" AND (site:slack.com | site:trello.com | site:atlassian.net | site:teamviewer.com | site:monday.com | site:zoho.com)
+"target.com.br" AND (site:slack.com | site:trello.com | site:atlassian.net | site:teamviewer.com | site:monday.com | site:zoho.com | site:notion.so | site:evernote.com | site:mural.co)
 ```
 
 #### Serviços de Hospedagem e Infraestrutura
