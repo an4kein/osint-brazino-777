@@ -84,7 +84,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Redes de Comunicação e Plataformas de Mensagens
 
 ```
-"target.com.br" AND (site:discord.com | site:whatsapp.com | site:telegram.org | site:skype.com | site:viber.com)
+"target.com.br" AND (site:discord.com | site:whatsapp.com | site:telegram.org | site:skype.com | site:viber.com | site:facebook.com/messenger | site:instagram.com)
 ```
 
 #### Plataformas de Educação e Certificação
