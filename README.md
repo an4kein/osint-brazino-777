@@ -123,12 +123,6 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 "target.com.br" AND (site:youtube.com | site:vimeo.com | site:twitch.tv | site:dailymotion.com | site:globoplay.com | site:enterplay.com.br | site:itauculturalplay.com.br | site:looke.com.br)
 ```
 
-#### Plataformas de Crowdfunding
-
-```
-"target.com.br" AND (site:gofundme.com | site:kickstarter.com | site:patreon.com | site:vakinha.com.br | site:catarse.me | site:kickante.com.br | site:benfeitoria.com | site:abacashi.com)
-```
-
 #### Plataformas de Desenvolvimento e API
 
 ```
