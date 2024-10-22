@@ -162,47 +162,47 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Ferramentas de Programação e Repositórios de Códigos
 
 ```
-"target.com.br" AND (site:github.com | site:gitlab.com | site:bitbucket.org)
+"target.com.br" AND (site:github.com | site:gitlab.com | site:bitbucket.org | site:glitch.com | site:replit.com | site:backend-br.github.io)
 ```
 
 #### Ferramentas de Análise e Vulnerabilidades
 
 ```
-"target.com.br" AND (site:shodan.io | site:securitytrails.com | site:censys.io)
+"target.com.br" AND (site:shodan.io | site:securitytrails.com | site:censys.io | site:fofa.info | site:onyphe.io | site:greynoise.io)
 ```
 
 #### Redes de Mensagens Instantâneas
 
 ```
-"target.com.br" AND (site:discord.com | site:whatsapp.com | site:telegram.org)
+"target.com.br" AND (site:discord.com | site:whatsapp.com | site:telegram.org | site:signal.org | site:wechat.com | site:skype.com | site:messenger.com)
 ```
 
 #### Ferramentas de Colaboração
 
 ```
-"target.com.br" AND (site:slack.com | site:trello.com | site:asana.com | site:monday.com)
+"target.com.br" AND (site:slack.com | site:trello.com | site:asana.com | site:monday.com | site:zoho.com | site:clickup.com | site:miro.com | site:basecamp.com)
 ```
 
 #### Plataformas de Certificação e Treinamento
 
 ```
-"target.com.br" AND (site:udemy.com | site:linkedin.com/learning | site:coursera.org | site:edx.org)
+"target.com.br" AND (site:udemy.com | site:linkedin.com/learning | site:coursera.org | site:edx.org | site:alura.com.br | site:impacta.com.br | site:brasilmaisti.com.br | site:rocketseat.com.br)
 ```
 
 #### Ferramentas de Pesquisa Acadêmica
 
 ```
-"target.com.br" AND (site:academia.edu | site:core.ac.uk | site:scielo.org | site:ieeexplore.ieee.org)
+"target.com.br" AND (site:academia.edu | site:core.ac.uk | site:scielo.org | site:ieeexplore.ieee.org | site:pergamum.ufrj.br | site:bdtd.ibict.br | site:teses.usp.br | site:researchgate.net)
 ```
 
 #### Redes Sociais de Relacionamentos
 
 ```
-"target.com.br" AND (site:badoo.com | site:tinder.com | site:okcupid.com)
+"target.com.br" AND (site:badoo.com | site:tinder.com | site:okcupid.com | site:parperfeito.com.br | site:grindr.com | site:match.com | site:happn.com)
 ```
 
 #### Plataformas de Doações e Financiamento Coletivo
 
 ```
-"target.com.br" AND (site:gofundme.com | site:patreon.com | site:kickstarter.com | site:vakinha.com.br)
+"target.com.br" AND (site:gofundme.com | site:patreon.com | site:kickstarter.com | site:vakinha.com.br | site:catarse.me | site:kickante.com.br | site:benfeitoria.com | site:abacashi.com)
 ```
