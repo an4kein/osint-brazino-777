@@ -120,7 +120,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Streaming e Compartilhamento de Vídeos
 
 ```
-"target.com.br" AND (site:youtube.com | site:vimeo.com | site:twitch.tv | site:dailymotion.com)
+"target.com.br" AND (site:youtube.com | site:vimeo.com | site:twitch.tv | site:dailymotion.com | site:globoplay.com | site:enterplay.com.br | site:itauculturalplay.com.br | site:looke.com.br)
 ```
 
 #### Plataformas de Crowdfunding
