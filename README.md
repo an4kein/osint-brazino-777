@@ -96,7 +96,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Documentação e Hospedagem de Arquivos
 
 ```
-"target.com.br" AND (site:dropbox.com | site:drive.google.com | site:onedrive.live.com)
+"target.com.br" AND (site:dropbox.com | site:drive.google.com | site:onedrive.live.com | site:box.com | site:mega.io | site:icloud.com | site:terabox.com)
 ```
 
 #### Plataformas de Criação de Formulários e Pesquisa
