@@ -102,7 +102,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Criação de Formulários e Pesquisa
 
 ```
-"target.com.br" AND (site:forms.gle | site:typeform.com | site:survey-monkey.com)
+"target.com.br" AND (site:forms.gle | site:typeform.com | site:survey-monkey.com | site:jotform.com | site:respondi.app | site:formstack.com)
 ```
 
 #### Plataformas de Envio de E-mails
