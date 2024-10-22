@@ -132,7 +132,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Plataformas de Desenvolvimento e API
 
 ```
-"target.com.br" AND (site:appspot.com | site:github.com | site:gitlab.com | site:herokuapp.com)
+"target.com.br" AND (site:appspot.com | site:github.com | site:gitlab.com | site:herokuapp.com | site:gr1d.io | site:apibrasil.com.br | site:cronapp.io)
 ```
 
 #### Redes Sociais e Plataformas de Relacionamento
