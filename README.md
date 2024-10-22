@@ -42,7 +42,7 @@ Estamos sempre abertos a colaborações! Se você tem sugestões, novas dorks ou
 #### Encurtadores de URLs
 
 ```
-"target.com.br" AND (site:bit.ly | site:rb.gy | site:tinyurl.com | site:goo.gl | site:t.ly | site:migre.me | site:is.gd | site:encurtador.com.br)
+"target.com.br" AND (site:bit.ly | site:rb.gy | site:tinyurl.com | site:goo.gl | site:t.ly | site:migre.me | site:is.gd | site:encurtador.com.br | site:url.gratis | site:rebrandly.com)
 ```
 
 #### Plataformas de Análise de Vulnerabilidades e Segurança
